@@ -15,7 +15,7 @@
 </td>
 <td valign="middle" style="padding-left:16px">
   <h2>Hi, I'm Samir Singh 👋</h2>
-  <p>Full Stack Developer &amp; AI Engineer &nbsp;•&nbsp; Building for the web and beyond</p>
+  <p>AI Engineer &nbsp;•&nbsp; Building for the web and beyond</p>
 </td>
 </tr>
 </table>
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=480&lines=Full+Stack+Developer+%7C+AI+Engineer;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+LangChain;Open+to+collaborations+%26+new+ideas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=480&lines=AI+Engineer;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+DeepLearning;Open+to+collaborations+%26+new+ideas)](https://git.io/typing-svg)
 
 </div>
 
