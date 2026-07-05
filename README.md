@@ -14,8 +14,8 @@
   <img src="https://avatars.githubusercontent.com/ersamirsingh" width="90" style="border-radius:50%;border:3px solid #6366f1" />
 </td>
 <td valign="middle" style="padding-left:16px">
-  <h2>Hi, I'm Samir Singh 👋</h2>
-  <p>AI Engineer &nbsp;•&nbsp; Building for the web and beyond</p>
+  <h2>Hi, I'm Samir Kumar Singh 👋</h2>
+  <p>AI Engineer & SDE &nbsp;•&nbsp; Building for the web and beyond</p>
 </td>
 </tr>
 </table>
@@ -24,11 +24,22 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=480&lines=AI+Engineer;MERN+%C2%B7+Python+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+DeepLearning;Open+to+collaborations+%26+new+ideas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&width=520&lines=AI+Engineer+%7C+SDE;MERN+%C2%B7+Python+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+DeepLearning;Building+QuantumCart+%26+codeX+%7C+Open+to+Collaborate)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
+
+---
+
+### `~/about` — A bit about me
+
+```yaml
+name       : Samir Kumar Singh
+role       : AI Engineer & SDE
+interests  : Full Stack Dev · GenAI · LangChain/LangGraph · System Design
+links      : linkedin.com/in/ersamirsingh
+```
 
 ---
 
@@ -53,6 +64,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=fff)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 
 **— Infra & Tools —**
 
@@ -61,6 +73,131 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+
+</div>
+
+---
+
+### `~/projects` — Things I've built
+
+<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🚀 [UrbanPiper](https://github.com/ersamirsingh/UrbanPiper) `🚧 Currently Building`
+> Actively in development — demo not live yet
+
+
+| Layer | Stack |
+|---|---|
+| Client | React · JavaScript · TailwindCSS · DaisyUI |
+| Server | Node.js · Express · TypeScript |
+| Database | MongoDB | Redis
+| Auth | JWT · Role-based access control | POS | Online Sync | Diff Platform Integration
+
+`TypeScript` — *description coming soon*
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠️ [Karigar](https://github.com/ersamirsingh/work-link)
+> Built for Technocrats Innovation Challenge 2k26 — full-stack MERN-style app with separate client/server architecture
+
+| Layer | Stack |
+|---|---|
+| Client | React · JavaScript · TailwindCSS · DaisyUI |
+| Server | Node.js · Express |
+| Database | MongoDB | Redis
+| Auth | JWT · Role-based access control |
+
+`JavaScript` `Team Project` [Live Demo →](https://worklink-frontend-2hr4.onrender.com/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🛒 [QuantumCart](https://github.com/ersamirsingh/QuantumCart)
+> Scalable, production-ready MERN e-commerce backend
+
+| Layer | Stack |
+|---|---|
+| Client | React · TypeScript |
+| Server | Node.js · Express |
+| Database | MongoDB | Redis
+| Auth | JWT · Role-based access control |
+
+`Cart Management` `Address Handling` `Order Validation` [Live Demo →](https://quantumcart-1gaq.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧩 [codeX](https://github.com/ersamirsingh/codeX)
+> AI-powered DSA practice platform with visualizers & auto-assessment
+
+
+| Layer | Stack |
+|---|---|
+| Client | React · JavaScript · TailwindCSS · DaisyUI |
+| Server | Node.js · Express |
+| Database | MongoDB | Redis
+| Auth | JWT · Role-based access control |
+
+`AI Hints` `Problem Recommendations` `Code Review` `Progress Tracking` [Live Demo →](https://codex-fronted.onrender.com/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 [Online Teaching Platform](https://github.com/ersamirsingh/Online-teaching-platform)
+> Dual-role platform where users can be both teacher and student — create or join classrooms with AI-assisted, free structured learning
+
+
+| Layer | Stack |
+|---|---|
+| Client | React · JavaScript · TailwindCSS · DaisyUI |
+| Server | Node.js · Express |
+| Database | MongoDB | Redis
+| Auth | JWT · Role-based access control |
+
+`AI Integration` `Dual Roles` `Classroom Management`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 [ChatBot](https://github.com/ersamirsingh/ChatBot)
+> AI chat bot experiment
+
+`Conversational AI` `Node.js` `JavaScript`
+
+</td>
+</tr>
+
+</table>
+
+<div align="center">
+
+*More on the way — check the [live repo list](https://github.com/ersamirsingh?tab=repositories) for everything else I'm building, including `GenAI` (GenAI learning log).*
+
+</div>
+
+---
+
+### `~/coding-stats` — DSA & competitive programming
+
+<div align="center">
+
+<a href="https://codolio.com/profile/ersamirsingh">
+  <img src="https://codolio.com/api/og/ersamirsingh" alt="Codolio Profile Card" width="600"/>
+</a>
+
+<br/>
+
+<sub>Live DSA stats across LeetCode, Codeforces, CodeChef & more → <a href="https://codolio.com/profile/ersamirsingh">codolio.com/profile/ersamirsingh</a></sub>
 
 </div>
 
@@ -111,11 +248,7 @@
   <img src="https://img.shields.io/badge/──_LinkedIn_──-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff" />
 </a>
 &nbsp;
-<a href="https://twitter.com/ersamirsingh">
-  <img src="https://img.shields.io/badge/──_Twitter_──-1da1f2?style=for-the-badge&logo=twitter&logoColor=fff" />
-</a>
-&nbsp;
-<a href="mailto:your@email.com">
+<a href="mailto:ersamirsingh@email.com">
   <img src="https://img.shields.io/badge/──_Email_──-ea4335?style=for-the-badge&logo=gmail&logoColor=fff" />
 </a>
 
