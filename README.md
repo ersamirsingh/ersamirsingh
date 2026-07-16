@@ -15,7 +15,7 @@
 </td>
 <td valign="middle" style="padding-left:16px">
   <h2>Hi, I'm Samir Kumar Singh 👋</h2>
-  <p>AI Engineer & Full Stack Developer &nbsp;•&nbsp; Co-Founder of FoodMesh & Creator of OmniServe</p>
+  <p>AI Engineer & Full Stack Developer &nbsp;•&nbsp; Lead Tech Engineer of OmniServe</p>
 </td>
 </tr>
 </table>
